@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <cctype>
 #include <vector>
 #include <unordered_map>
 #include "token.h"
